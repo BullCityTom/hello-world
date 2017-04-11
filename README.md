@@ -1,3 +1,3 @@
 # hello-world
-A short description.
-A bit about yourself.
+A **short** description.
+A _bit_ about <yourself>.
